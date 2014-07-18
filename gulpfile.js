@@ -2,4 +2,6 @@ var gulp = require('./gulp')([
     'markup'
   ]);
 
-gulp.task('default', ['markup']);
+gulp.task('compile', ['markup']);
+
+gulp.task('default', ['compile']);
