@@ -1,0 +1,15 @@
+{
+  "name": "raf",
+  "version": "0.0.0",
+  "description": "Testing a better RAF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Gale <matt@littleball.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-jade": "^0.6.1"
+  }
+}
